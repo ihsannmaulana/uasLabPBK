@@ -1,4 +1,7 @@
-# uas-ihsan
+# uas Lab PBK
+Nama  :M Ihsan Maulana
+NPM    :213510608
+Kelas  : 4A
 
 ## Project setup
 ```
